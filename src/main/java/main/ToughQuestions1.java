@@ -49,8 +49,6 @@ public class ToughQuestions1 {
     }
 }
 
-
-
 class Account {
     private int acc_no;
     private int bal;
